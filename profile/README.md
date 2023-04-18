@@ -8,4 +8,4 @@ We're starting by laying the foundation with **fdtd-z** (coming soon) and buildi
 
 ### Contact us
 
-Reach out to us at jesselu@spinsphotonics.com
+Reach out to us at jesselu@spinsphotonics.com or join our [discord](https://discord.gg/uhBb2CbVJ8).
