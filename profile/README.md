@@ -1,11 +1,12 @@
-# Welcome to [SPINS Photonics](spinsphotonics.com)
+# Welcome to [SPINS Photonics](spinsphotonics.com) 💫
 
-Hi! At SPINS 💫 we're building the computational tools needed to enable massive breakthroughs in photonic design.
-Our goal is to revolutionize photonic integrated circuits, imaging lenses, lithography masks (and more!)
-by enabling photonic designers to harness compute at scale. 
+Hi! 👋 We're [Jesse](https://scholar.google.com/citations?user=zYN5iqMAAAAJ&hl=en) and [Jelena](http://web.stanford.edu/~jela/),
+and [SPINS Photonics](spinsphotonics.com) is our little attempt to **revolutionize photonics** 🤓.
 
-We're starting by laying the foundation with [fdtd-z](https://github.com/spinsphotonics/fdtdz) and building out from there.
+We believe that all that we need to do is to *enable photonic designers to harness compute at scale*.
+
+We're starting with [fdtd-z](https://github.com/spinsphotonics/fdtdz). Go check it out!
 
 ### Contact us
 
-Reach out to us at jesselu@spinsphotonics.com or join our [discord](https://discord.gg/uhBb2CbVJ8).
+Reach out anytime at jesselu@spinsphotonics.com.
