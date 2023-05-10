@@ -13,4 +13,4 @@ Reach out anytime at jesselu@spinsphotonics.com.
 
 ### Acknowledgments
 
-SPINS Photonics Inc sincerely thanks the generous and continued support of ARPA-E under the DIFFERENTIATE program.
+SPINS Photonics sincerely thanks the generous and continued support of ARPA-E under the DIFFERENTIATE program.
