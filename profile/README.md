@@ -5,7 +5,7 @@ and [SPINS Photonics](spinsphotonics.com) is our little attempt to **revolutioni
 
 We believe that all that we need to do is to *enable photonic designers to harness compute at scale*.
 
-We're starting with [fdtd-z](https://github.com/spinsphotonics/fdtdz). Go check it out!
+We're starting with [***fdtd-z***](https://github.com/spinsphotonics/fdtdz). Go check it out!
 
 ### Contact us
 
