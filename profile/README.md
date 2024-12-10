@@ -1,8 +1,8 @@
 # Welcome to [SPINS Photonics](https://spinswaitlist.netlify.app/) 💫
 
-Hi there! 👋 We're launching at SPIE Photonics West 2025. Click [here](https://spinswaitlist.netlify.app/) to join our waitlist! 
+Hi there! 👋 We're launching at SPIE Photonics West 2025. 
+### Click [here](https://spinswaitlist.netlify.app/) to join our waitlist! 
 
-### Contact us
 
 Reach out anytime at explore@spinsphotonics.com.
 
@@ -11,4 +11,3 @@ Reach out anytime at explore@spinsphotonics.com.
 SPINS Photonics sincerely thanks the generous support of ARPA-E under the DIFFERENTIATE program.
 
 
-![Alt text](https://i.ibb.co/bb8T1Dv)
