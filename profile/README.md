@@ -1,6 +1,6 @@
 # Welcome to [SPINS Photonics](spinsphotonics.com) 💫
 
-Hi there! 👋 We're launching at SPIE Photonics West 2025. Click here to join our waitlist! 
+Hi there! 👋 We're launching at SPIE Photonics West 2025. Click [here](https://spinswaitlist.netlify.app/) to join our waitlist! 
 
 ### Contact us
 
