@@ -1,6 +1,6 @@
 # Welcome to [SPINS Photonics](https://spinswaitlist.netlify.app/) 💫
 
-Hi there! 👋 We're launching at SPIE Photonics West 2025. 
+Hi there! 👋 We're building the fastest FDTD solver tailored for inverse design, launching at SPIE Photonics West 2025 in January. 
 
 ### Click [here](https://spinswaitlist.netlify.app/) to join our waitlist! 
 Or reach out to us anytime at explore@spinsphotonics.com.
