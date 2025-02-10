@@ -1,6 +1,6 @@
 # Welcome to [SPINS Photonics](https://spinsphotonics.com/) 💫
 
-Hi there! 👋 We're building the fastest FDTD solver tailored for inverse design, launching at SPIE Photonics West 2025 in January. 
+Hi there! 👋 We're building the fastest FDTD solver tailored for inverse design, launching soon! You can learn more about us at [our website](https://spinsphotonics.com/)
 
 ### Click [here](https://spins-waitlist.web.app/) to join our waitlist! 
 Or reach out to us anytime at explore@spinsphotonics.com.
